@@ -26,8 +26,9 @@
     color: inherit
 
   .fa
-    border-bottom: solid 4px transparent
-    font-size: 3rem
+    border: solid 4px transparent
+    font-size: 2.5rem
+    line-height: middle
 
     &:hover
       color: #4156e3
